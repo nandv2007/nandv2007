@@ -39,7 +39,7 @@
 
 ### 📫 Let's Connect
 
-- 📩 **Email:** nandhinivenkatesan07@outlook.com
+- 📩 **Email:** nandhinivenkatesan11@outlook.com
 - 💼 **LinkedIn:** [linkedin.com/in/nandhinivenkatesan07](https://linkedin.com/in/nandhinivenkatesan07)
 - 📝 **Blog / Notes / Projects (soon)**: Coming soon...
 
