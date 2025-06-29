@@ -3,7 +3,7 @@
 <h3 align="center">First-Year BTech CSE Student | Passionate Learner | Future Tech Leader 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+AI+%26+ML;Learning+Git%2C+C%2B%2B%2C+Python;Aspiring+GATE+Topper+%F0%9F%92%AA;Building+projects+%F0%9F%9B%A0%EF%B8%8F;Preparing+for+UPSC+%F0%9F%93%9D" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+AI+%26+ML;Learning+Git%2C+C%2B%2B%2C+Python;Aspiring+FULL+STACK+Developer+%F0%9F%92%AA;Building+projects+%F0%9F%9B%A0%EF%B8%8F;Preparing+for+UPSC+%F0%9F%93%9D" />
 </p>
 
 ---
