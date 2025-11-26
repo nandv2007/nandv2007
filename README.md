@@ -8,10 +8,10 @@
 
 ---
 
-### 🧠 About Me
+### ✨ About Me
 
 - 🎓 I'm a first-year BTech CSE student at **Amrita Vishwa Vidyapeetham**
-- 💻 Currently learning **C++**, **Python**, **Git**, and **GitHub**
+- 💻 Currently learning **C++**, **Java**, **CSS**, and **Java script**
 - 🛠️ Passionate about **problem-solving**, **open source**, and **personal growth**
 - 🎯 Dreaming big: ** Full-Stack Dev | Polyglot**
 - 🌱 Exploring **DSA**, **Web Development**, and **Machine Learning**
