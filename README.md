@@ -1,9 +1,9 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Nandhini Venkatesan</h1>
-<h3 align="center">First-Year BTech CSE Student | Passionate Learner | Future Tech Leader 🚀</h3>
+<h3 align="center">First-Year BTech CSE Student | Passionate Learner | Intern at KONE Elevate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+AI+%26+ML;Learning+Git%2C+C%2B%2B%2C+Python;Aspiring+FULL+STACK+Developer+%F0%9F%92%AA;Building+projects+%F0%9F%9B%A0%EF%B8%8F;Love+clean+code+%F0%9F%93%9D" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+AI+%26+ML;Learning+Git%2C+C%2B%2B%2C+Java;Aspiring+FULL+STACK+Developer+%F0%9F%92%AA;Building+projects+%F0%9F%9B%A0%EF%B8%8F;Love+clean+codes+%F0%9F%93%9D" />
 </p>
 
 ---
@@ -12,8 +12,8 @@
 
 - 🎓 I'm a first-year BTech CSE student at **Amrita Vishwa Vidyapeetham**
 - 💻 Currently learning **C++**, **Java**, **CSS**, and **Java script**
-- 🛠️ Passionate about **problem-solving**, **open source**, and **personal growth**
-- 🎯 Dreaming big: ** Full-Stack Dev | Polyglot**
+- 🛠️ Passionate about **problem-solving**, **open source**, and **IoT projects**
+- 🎯 Dreaming big: ** Full-Stack Dev | Game Dev**
 - 🌱 Exploring **DSA**, **Web Development**, and **Machine Learning**
 - 💼 Actively building projects to strengthen my skills
 
@@ -41,7 +41,8 @@
 
 - 📩 **Email:** nandhinivenkatesan11@outlook.com
 - 💼 **LinkedIn:** [linkedin.com/in/nandhinivenkatesan07](https://linkedin.com/in/nandhinivenkatesan07)
-- 📝 **Blog / Notes / Projects (soon)**: Coming soon...
+- 📝 **Projects**: *SilentVoice
+  
 
 ---
 
