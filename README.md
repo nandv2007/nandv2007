@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Nandhini Venkatesan</h1>
-<h3 align="center">First-Year BTech CSE Student | Passionate Learner | Intern at KONE Elevate</h3>
+<h3 align="center">First-Year BTech CSE Student | Passionate Learner </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+AI+%26+ML;Learning+Git%2C+C%2B%2B%2C+Java;Aspiring+FULL+STACK+Developer+%F0%9F%92%AA;Building+projects+%F0%9F%9B%A0%EF%B8%8F;Love+clean+codes+%F0%9F%93%9D" />
