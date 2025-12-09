@@ -3,7 +3,7 @@
 <h3 align="center">First-Year BTech CSE Student | Passionate Learner </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+AI+%26+ML;Learning+Git%2C+C%2B%2B%2C+Java;Aspiring+FULL+STACK+Developer+%F0%9F%92%AA;Building+projects+%F0%9F%9B%A0%EF%B8%8F;Love+clean+codes+%F0%9F%93%9D" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+AI+%26+ML;Learning+Robot+Framework%2C+C%2B%2B%2C+Java;Aspiring+FULL+STACK+Developer+%F0%9F%92%AA;Building+projects+%F0%9F%9B%A0%EF%B8%8F;Love+clean+codes+%F0%9F%93%9D" />
 </p>
 
 <!--
@@ -16,7 +16,7 @@
 ### ✨ About Me
 
 - 🎓 I'm a first-year BTech CSE student at **Amrita Vishwa Vidyapeetham**
-- 💻 Currently learning **C++**, **Java**, **CSS**, and **Java script**
+- 💻 Currently learning **Jira software**, **Robot Framework**, **STLC**, and **Java script**
 - 🛠️ Passionate about **problem-solving**, **open source**, and **IoT projects**
 - 🎯 Dreaming big: ** Full-Stack Dev | Game Dev**
 - 🌱 Exploring **DSA**, **Web Development**, and **Machine Learning**
@@ -26,20 +26,21 @@
 
 ### 🔧 Technologies & Tools
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![RaspberryPI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/> 
-<img src="https://github.com/robotframework/robotframework/raw/master/doc/userguide/src/images/robot-framework-logo.png" width="80"/>
 
 ---
 
