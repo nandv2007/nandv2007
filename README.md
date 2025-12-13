@@ -44,19 +44,14 @@
 
 ---
 
-### 📊 GitHub Stats
+###  Let's Connect
 
-
----
-
-### 📫 Let's Connect
-
-- 📩 **Email:** nandhinivenkatesan11@outlook.com
-- 💼 **LinkedIn:** [linkedin.com/in/nandhinivenkatesan07](https://linkedin.com/in/nandhinivenkatesan07)
-- 📝 **Projects**: **SilentVoice**
+-  **Email:** nandhinivenkatesan11@outlook.com
+-  **LinkedIn:** [linkedin.com/in/nandhinivenkatesan07](https://linkedin.com/in/nandhinivenkatesan07)
+-  **Projects**: **SilentVoice**
   
 
 ---
 
-_“Strive for progress, not perfection. The journey matters.”_ ✨
+_“Strive for progress, not perfection. The journey matters.”_ 
 
