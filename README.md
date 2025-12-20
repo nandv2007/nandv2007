@@ -1,9 +1,9 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Nandhini Venkatesan</h1>
-<h3 align="center">First-Year BTech CSE Student | Passionate Learner </h3>
+## Hello ppl !!!
+<h1 align="center">Hi , myself Nandhini Venkatesan</h1>
+<h3 align="center">First-Year BTech CSE Student | Digital Content Writer | Graphical Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+AI+%26+ML;Learning+Robot+Framework%2C+C%2B%2B%2C+Java;Aspiring+FULL+STACK+Developer+%F0%9F%92%AA;Building+projects+%F0%9F%9B%A0%EF%B8%8F;Love+clean+codes+%F0%9F%93%9D" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+AI+%26+ML;Learning+DevOps+%26+JavaScript;Working+on+FULL+STACK+projects+;Love+Coding+with+Music+;Always+ready+to+collaborate" />
 </p>
 
 
@@ -13,20 +13,17 @@
 
 
 
-### ✨ About Me
+### About Me
 
-- 🎓 I'm a first-year BTech CSE student at **Amrita Vishwa Vidyapeetham**
-- 💻 Currently learning **Jira software**, **Robot Framework**, **STLC**, and **Java script**
-- 🛠️ Passionate about **problem-solving**, **open source**, and **IoT projects**
-- 🎯 Dreaming big: ** Full-Stack Dev | Game Dev**
-- 🌱 Exploring **DSA**, **Web Development**, and **Machine Learning**
-- 💼 Actively building projects to strengthen my skills
-
+- First-year BTech CSE student at Amrita Vishwa Vidyapeetham
+- Hands-on with Jira & Robot Framework
+- Enjoys solving problems and contributing to open source
+- Love coding and listening to songs 24/7
+- Working on projects that support SDG
 ---
 
-### 🔧 Technologies & Tools
+###  Technologies & Tools
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,15 +40,12 @@
 ![RaspberryPI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
+### Socials
+[![Gmail](https://img.shields.io/badge/GMAIL-%20-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhinivenkatesan07@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%20-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandhinivenkatesan07)
+[![Kaggle](https://img.shields.io/badge/KAGGLE-%20-0CA5E8?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nandv2007)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nandv2007/)
 
-###  Let's Connect
 
--  **Email:** nandhinivenkatesan11@outlook.com
--  **LinkedIn:** [linkedin.com/in/nandhinivenkatesan07](https://linkedin.com/in/nandhinivenkatesan07)
--  **Projects**: **SilentVoice**
-  
-
----
-
-_“Strive for progress, not perfection. The journey matters.”_ 
+_“Be happy not because of everything is good, But because you see good in everything.”_ 
 
