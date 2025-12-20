@@ -1,5 +1,5 @@
 ## Hello ppl !!!
-<h1 align="center">Hi , myself Nandhini Venkatesan</h1>
+<h1 align="center">Hi ,I'm Nandhini Venkatesan</h1>
 <h3 align="center">First-Year BTech CSE Student | Digital Content Writer | Bibiliophile</h3>
 
 <p align="center">
