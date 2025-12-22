@@ -1,5 +1,5 @@
 ## Hello ppl !!!
-<h1 align="center">Hi ,I'm Nandhini Venkatesan</h1>
+<h1 align="center">I'm Nandhini Venkatesan</h1>
 <h3 align="center">First-Year BTech CSE Student | Digital Content Writer | Bibiliophile</h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 - First-year BTech CSE student at Amrita Vishwa Vidyapeetham
 - Hands-on with Jira & Robot Framework
-- Enjoys solving problems and contributing to open source
+- Enjoy solving problems and learning anything new
 - Love coding and listening to songs 24/7
 - Working on projects that support SDG
 ---
@@ -38,11 +38,13 @@
 ![Selenium](https://img.shields.io/badge/Selenium-CD5C5C?style=for-the-badge&logo=selenium&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![RaspberryPI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+
 
 ---
 ### Socials
 [![Gmail](https://img.shields.io/badge/GMAIL-%20-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhinivenkatesan07@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%20-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandhinivenkatesan07)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%20-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandhini-venkatesan-40665033b/)
 [![Kaggle](https://img.shields.io/badge/KAGGLE-%20-0CA5E8?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nandv2007)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nandv2007/)
 
