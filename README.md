@@ -1,9 +1,9 @@
 ## Hello ppl !!!
 <h1 align="center">I'm Nandhini Venkatesan</h1>
-<h3 align="center">First-Year BTech CSE Student | Digital Content Writer | Bibiliophile</h3>
+<h3 align="center">First-Year BTech CSE Student | Software Testing Intern @ KONE  | Bibiliophile</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+AI+%26+ML;Learning+DevOps+%26+JavaScript;Working+on+FULL+STACK+projects+;Love+Coding+with+Music+;Always+ready+to+collaborate" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+AI+%26+ML+...;Learning+new+everyday+...;Working+on+projects+...+;Love+Coding+with+Music+...;Always+ready+to+collaborate" />
 </p>
 
 
