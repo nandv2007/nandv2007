@@ -2,14 +2,15 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:     # allows manual run
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate pacman graph
+      - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@v1
         with:
-          username: nandv2007
+          github_user_name: nandv2007
