@@ -40,6 +40,12 @@
 ![RaspberryPI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 
+---
+Github Stats
+<div align="center">
+    
+  ![snake gif](https://github.com/nandv2007/nandv2007/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 ### Socials
