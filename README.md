@@ -18,7 +18,7 @@
 - First-year BTech CSE student at Amrita Vishwa Vidyapeetham
 - Hands-on with Jira & Robot Framework
 - Enjoy solving problems and learning anything new
-- Love coding and listening to songs 24/7
+- Love coding and listening to songs
 - Working on projects that support SDG
 ---
 
