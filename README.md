@@ -1,6 +1,6 @@
 ## Hello ppl !!!
 <h1 align="center">I'm Nandhini Venkatesan</h1>
-<h3 align="center">First-Year BTech CSE Student @ Amrita</h3>
+<h3 align="center">Sophomore BTech CSE Student @ Amrita</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+AI+%26+ML+...;Learning+new+everyday+...;Working+on+projects+...+;Love+Coding+with+Music+...;Always+ready+to+collaborate" />
@@ -15,7 +15,7 @@
 
 ### About Me
 
-- First-year BTech CSE student at Amrita Vishwa Vidyapeetham
+- Sophomore BTech CSE student at Amrita Vishwa Vidyapeetham
 - Hands-on with Jira & Robot Framework
 - Enjoy solving problems and learning anything new
 - Love coding and listening to songs
@@ -24,6 +24,7 @@
 
 ###  Technologies & Tools
 
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -47,7 +48,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-FF4F8B?style=for-the-badge&logo=make&logoColor=white)
-
+![Tinkercad](https://img.shields.io/badge/-Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white)
 
 
 ---
@@ -69,10 +70,7 @@ Github Stats
 [![Kaggle](https://img.shields.io/badge/KAGGLE-%20-0CA5E8?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nandv2007)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nandv2007/)
 [![DUOLINGO](https://img.shields.io/badge/DUOLINGO-%20-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/nandv2007)
-
-
-
-
+[![ORCID](https://img.shields.io/badge/ORCID--A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-2584-4135)
 
 _“Be happy not because of everything is good, But because you see good in everything.”_ 
 
