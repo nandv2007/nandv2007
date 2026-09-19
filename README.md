@@ -71,6 +71,8 @@ Github Stats
 [![LeetCode](https://img.shields.io/badge/LEETCODE-%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nandv2007/)
 [![DUOLINGO](https://img.shields.io/badge/DUOLINGO-%20-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/nandv2007)
 [![ORCID](https://img.shields.io/badge/ORCID--A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-2584-4135)
+[![Chess.com](https://img.shields.io/badge/CHESS.COM-%20-769656?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/nandv2007)
+[![Discord](https://img.shields.io/badge/DISCORD-%20-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/W9KFn2ps)
 
 _“Be happy not because of everything is good, But because you see good in everything.”_ 
 
