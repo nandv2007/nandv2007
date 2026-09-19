@@ -1,6 +1,6 @@
-## Hello ppl !!!
+## Hello !!!
 <h1 align="center">I'm Nandhini Venkatesan</h1>
-<h3 align="center">Sophomore BTech CSE Student @ Amrita</h3>
+<h3 align="center">Sophomore BTech CSE Student @ Amrita Vishwa Vidyapeetam</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+AI+%26+ML+...;Learning+new+everyday+...;Working+on+projects+...+;Love+Coding+with+Music+...;Always+ready+to+collaborate" />
@@ -49,6 +49,11 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-FF4F8B?style=for-the-badge&logo=make&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/-Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 
 ---
