@@ -68,6 +68,22 @@ Github Stats
 </picture>
 
 
+<div align="center">
+
+#  GitHub Dashboard
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nandv2007&theme=radical&hide_border=true)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandv2007&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandv2007&layout=compact&theme=radical&hide_border=true"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nandv2007&label=Profile%20Views&color=ff69b4&style=for-the-badge)
+
+</div>
+
+
+
 ---
 ### Socials
 [![Gmail](https://img.shields.io/badge/GMAIL-%20-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhinivenkatesan07@outlook.com)
